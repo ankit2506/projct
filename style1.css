@@ -1,0 +1,325 @@
+body{
+background-color:#dfe3ee;
+}
+h2{
+	position:absolute;
+	left:20px;
+	top:100px;
+	width:550px;
+	font-weight:bold;
+	font-size:30px;
+	font-family:verdana;
+}
+
+.c1{
+	position:absolute;
+	
+	height:80px;
+	margin:-8px;
+	width:1360px;
+	
+	background-color:#3b5998;
+}
+	
+#d2{
+	font-size:40px;
+	font-weight:900;
+	color:white;
+	width:20px;
+	position:absolute;
+	left:200px;
+	top:20px;
+	font-family:verdana;
+	
+}
+.Email{
+	position:absolute;
+	top:16px;
+	left:790px;
+	width:120px;
+	font-size:12;
+	color:#f7f7f7;
+	font-family:verdana;
+	
+}
+
+.emailspace{
+position:absolute;
+top:37px;
+left:790px;
+color:darkblue;
+}
+.password{
+position:absolute;
+top:17.5px;
+left:980px;
+font-size:12;
+width:63px;
+color:#f7f7f7;
+font-family:verdana;
+	
+}
+.passspace{
+position:absolute;
+top:36.5px;
+left:977;
+height:30px;
+
+}
+#forgot{
+	position:absolute;
+	top:60px;
+	left:977;
+	width:130px
+
+	
+	
+}
+#forgot,a{
+	color:#8b9dc3;
+		text-decoration:none;
+		font-family:verdana;
+		font-size:13px;
+		letter-spacing:-1px;
+	
+}
+
+.login{
+
+	border:1px:solid black;
+	position:absolute;
+	left:1164px;
+	top:36px;
+	
+	
+}
+.logbutton{
+	color:white;
+	background-color:darkblue;
+	font-size:14px;
+	font-weight:bold;
+	border:1px solid #8b9dc3 ;
+	width:54px;
+	height:22px;
+	
+	
+	
+	
+}
+
+.signup{
+position:absolute;
+left:765px;
+top:70px;
+width:140px;
+color:black;
+font-size:20px;
+font-family:Bookman;
+font-weight:bolder;
+
+}
+.its{
+position:absolute;
+left:765;
+top:150;
+width:257;
+font-size:21px;
+font-family:Helvetica;
+}
+
+#input2{
+	position:absolute;
+	left:766px;
+	height:41px;
+	width:200px;
+	border-radius:7px;
+	top:190;
+	font-size:19px;
+	padding-left:10px;
+	
+}
+
+.input4{
+	position:absolute;
+	left:976px;
+	top:190px;
+	height:41px;
+	width:200px;
+	border-radius:7px;
+	font-size:19px;
+	padding-left:10px;
+}
+
+
+.input6{
+	position:absolute;
+	left:765px;
+	top:240px;
+	height:41px;
+	width:414px;
+	border-radius:7px;
+	font-size:19px;
+	padding-left:10px;
+}
+
+.input8{
+	position:absolute;
+	left:765px;
+	top:290px;
+	height:41px;
+	width:414px;
+	border-radius:7px;
+	font-size:19px;
+	padding-left:10px;
+}
+
+.birthday{
+	font-family:helvetica;
+	font-size:18px;
+	position:absolute;
+	left:765px;
+	top:352px;
+	
+}
+.birthspace{
+	position:absolute;
+	left:765px;
+	top:380px;
+	width:220px;
+	height:auto;
+	
+}
+.month{
+	height:35px;
+	width:70px;
+}
+.day{
+	height:35px;
+	width:70px;
+}
+.year{
+	height:35px;
+	width:70px;
+}
+.why{
+	position:absolute;
+	left:996px;
+	top:379px;
+	width:200px;
+	font-size:13px;
+	color:#8b9dc3;
+}
+.gend{
+	position:absolute;
+	left:763;
+	top:400;
+}
+.gender{
+	position:absolute;
+	left:765px;
+	top:465px;
+	
+}
+.gendbox{
+	height:35px;
+	font-size:14px;
+}
+.byclick{
+	position:absolute;
+	left:765px;
+	top:510px;
+	text-align:justify;
+	width:349px;
+	font-size:13px;
+}
+.create{
+	position:absolute;
+	left:765px;
+	top:580px;
+	background-color:darkgreen;
+	width:190px;
+	height:40px;
+	color:white;
+	border-radius:6px;
+	font-family:verdana;
+	font-weight:bold;
+	font-size:17px;
+	border:0.1px solid black;
+	
+}
+.creata{
+	position:absolute;
+	left:765px;
+	top:630px;
+	width:330px;
+	font-family:verdana;
+	font-size:13px;
+}
+.apage{
+	color:#3b5998;
+	font-size:12px;
+	font-weight:bold;
+	font-family:verdana;
+}
+.connect{
+	font-family:verdana;
+	position:absolute;
+	left:180px;
+	top:150px;
+	font-size:28px;
+	width:450px;
+	letter-spacing:-1px;
+}
+.see{
+	position:absolute;
+	left:235;
+	top:265;
+	font-family:verdana;
+	font-size:17px;
+	letter-spacing:-1px;
+}
+.smallsee{
+	font-size:15px;
+}
+.share{
+	position:absolute;
+	left:236;
+	top:340;
+	font-family:verdana;
+	font-size:17px;
+	letter-spacing:-1px;
+}
+.sharesmall{
+	font-size:15px;
+}
+.find{
+	position:absolute;
+	left:235;
+	top:412;
+	font-family:verdana;
+	font-size:17px;
+	letter-spacing:-1px;
+}
+.findsmall{
+	font-size:15px;
+}
+.image1{
+	position:absolute;
+	top:250;
+	left:170;
+}
+.image2{
+	position:absolute;
+	top:330;
+	left:170;
+}
+.image3{
+	position:absolute;
+	top:405;
+	left:169;
+}
+#ll{
+	position:absolute;
+	left:170;
+	top:450;
+}
