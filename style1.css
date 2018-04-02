@@ -190,15 +190,15 @@ font-family:Helvetica;
 	
 }
 .month{
-	height:35px;
+	height:33px;
 	width:70px;
 }
 .day{
-	height:35px;
+	height:33px;
 	width:70px;
 }
 .year{
-	height:35px;
+	height:33px;
 	width:70px;
 }
 .why{
@@ -322,4 +322,7 @@ font-family:Helvetica;
 	position:absolute;
 	left:170;
 	top:450;
+}
+.redi{
+	
 }
